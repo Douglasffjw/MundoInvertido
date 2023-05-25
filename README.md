@@ -1,4 +1,4 @@
-# Stranger Things
+# 👾 Projeto Stranger Things
 
 ![preview.png](./.github/preview.png)
 
@@ -14,7 +14,7 @@ Projeto construído no evento da Dio.
 - CSS 
 - Git e Github
 
-# 😜Contato
+# 📞 Contato
  
 > Email: douglasfernandesti@gmail.com
 
